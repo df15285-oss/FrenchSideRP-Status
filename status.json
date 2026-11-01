@@ -1,3 +1,5 @@
 {
-  "online": false
+  "online": false,
+  "players": 0,
+  "max_players": 64
 }
